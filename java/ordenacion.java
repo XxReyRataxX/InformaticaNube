@@ -38,7 +38,7 @@ public class ordenacion {
     }
     
     public static void main(String[] args) {
-        int n = 100000; // 100k elementos
+        int n = 2000000; // 100k elementos
         
         System.out.println("=== ORDENACIÓN N² - GASTO ELÉCTRICO ===");
         System.out.println("Número de elementos: " + n);
