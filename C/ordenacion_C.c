@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 void ordenar(int *array, int size) {
     for (int i = 0; i < size - 1; i++) {
         int min_index = i;
